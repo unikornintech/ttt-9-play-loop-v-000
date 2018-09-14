@@ -37,6 +37,5 @@ end
 
 # Define your play method below
 def play(board)
-  turn(board) = 0
-  
+  9.times { puts "turn(board)" }
 end
